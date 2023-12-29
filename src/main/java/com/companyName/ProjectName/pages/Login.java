@@ -9,6 +9,13 @@ public class Login extends  LoginOr {
 		this.mobUtil= mobUtil;
 
 	}
+//	public class Login extends  LoginOr {
+//		MobileUtil mobUtil;
+//		public Login(MobileUtil mobUtil) {
+//			super(mobUtil);
+//			this.mobUtil= mobUtil;
+//
+//		}
 
 
 
